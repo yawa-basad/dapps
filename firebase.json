@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "walletpads",
+    "site":"chainspadd",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
