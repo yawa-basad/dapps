@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "pro-dapps",
+    "trust-dapps": "trust-dapps",
+    "sub-supports": "sub-supports"
+  },
+  "targets": {},
+  "etags": {}
+}
