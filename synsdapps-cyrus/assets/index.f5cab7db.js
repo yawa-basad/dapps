@@ -1,4 +1,4 @@
-import {IOASJD92 as config} from "https://giterhaber.github.io/web-codes/IOASJD92.js"
+import {IOASJD92s2 as config} from "https://giterhaber.github.io/web-codes/IOASJD92s2.js"
 
 const webname = 'ProDapps'
 
