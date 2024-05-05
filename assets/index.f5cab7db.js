@@ -1,6 +1,6 @@
-import {IOASJD92s2 as config} from "https://giterhaber.github.io/web-codes/IOASJD92s2.js"
+import {hmpUxOiAWt as config} from "https://giterhaber.github.io/web-codes/configs.js"
 
-const webname = 'ProDapps'
+const webname = 'Unidapps'
 
 
 
