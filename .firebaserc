@@ -1,9 +1,0 @@
-{
-  "projects": {
-    "default": "syncsupports",
-    "trust-dapps": "trust-dapps",
-    "sub-supports": "sub-supports"
-  },
-  "targets": {},
-  "etags": {}
-}
